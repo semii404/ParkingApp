@@ -1,0 +1,9 @@
+G:\Git\projects\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.AssemblyReference.cache
+G:\Git\projects\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+G:\Git\projects\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+G:\Git\projects\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+G:\Git\projects\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+G:\Git\projects\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+G:\Git\projects\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+G:\Git\projects\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+G:\Git\projects\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
